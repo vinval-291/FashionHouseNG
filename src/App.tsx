@@ -337,9 +337,9 @@ const Footer = ({ setPage }: { setPage: (p: Page) => void }) => {
       </div>
       
       <div className="max-w-7xl mx-auto border-t border-white/5 pt-10 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-        <p className="text-white/30 text-[10px] uppercase tracking-widest">© 2024 FashionhouseNG. All Rights Reserved.</p>
+        <p className="text-white/30 text-[10px] uppercase tracking-widest">© 2026 FashionhouseNG. All Rights Reserved.</p>
         <div className="text-white/30 text-[10px] uppercase tracking-widest">
-          Site developed by <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-white transition-colors">Kuteyi Vincent</a>
+          Site developed by <a href="https://www.linkedin.com/in/kuteyi-oluwaloye-vincent" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-white transition-colors">Kuteyi Oluwaloye Vincent</a>
         </div>
         <div className="flex space-x-6">
           <span className="text-white/30 text-[10px] uppercase tracking-widest cursor-pointer hover:text-white">Privacy Policy</span>
