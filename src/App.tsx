@@ -142,7 +142,7 @@ const PRODUCTS: Product[] = [
       "https://i.postimg.cc/cJRw8j5M/Poedegar_6.png"
     ],
     category: "POEDEGAR LEATHER",
-    description: "WATERPROOFS WITH SAPPHIRE GLASS, COMES WITH BRANDED BOX,WARRANTY CARD,EXTRA BATTERY AND CARRIER BAG"
+    description: "Waterproofs with sapphire glass, comes with branded box, warranty card, extra battery and carrier bag"
   },
   {
     id: 8,
