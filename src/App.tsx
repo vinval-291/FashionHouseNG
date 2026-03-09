@@ -369,7 +369,7 @@ const CartDrawer = ({
 
   const handleCheckout = () => {
     const phoneNumber = "+2348176578290";
-    let message = "Hello FashionhouseNG, I would like to purchase the following items:\n\n";
+    let message = "Hello FashionHouseNG, I would like to purchase the following items:\n\n";
     
     items.forEach(item => {
       message += `- ${item.name} x ${item.quantity} (${formatPrice(item.priceNaira * item.quantity)})\n`;
